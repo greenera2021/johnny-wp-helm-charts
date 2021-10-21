@@ -1,0 +1,1 @@
+custom helm chart for Wordpress installation in Kubernetes.
