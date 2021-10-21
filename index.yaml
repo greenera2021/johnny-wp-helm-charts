@@ -5,7 +5,7 @@ entries:
       category: CMS
     apiVersion: v2
     appVersion: 5.8.1
-    created: "2021-10-21T22:24:25.4313483+05:30"
+    created: "2021-10-22T00:10:51.4956114+05:30"
     dependencies:
     - condition: mariadb.enabled
       name: mariadb
@@ -42,4 +42,4 @@ entries:
     urls:
     - https://github.com/greenera2021/johnny-wp-helm-charts/wordpress-12.1.21.tgz
     version: 12.1.21
-generated: "2021-10-21T22:24:24.5398459+05:30"
+generated: "2021-10-22T00:10:50.7508925+05:30"
